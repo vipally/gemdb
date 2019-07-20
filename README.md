@@ -1,5 +1,5 @@
 # gemdb
-gemdb is an memory-based embeded  key-value database implements by GO
+gemdb is a memory-based embeded  key-value database implements by GO
 
 
 Aims:
