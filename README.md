@@ -10,4 +10,6 @@ Aims:
   - Memory only
   - High speed
   - High concurrency
+  - No network
+  - No disk
   
